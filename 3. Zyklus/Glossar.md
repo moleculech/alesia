@@ -7,15 +7,20 @@
 ### Alesia
 Sportliche Architekturpraktikantin vom Tarsiris-System
 
-### Anguilla
+### Anguilla/Guillian
 Bruder von Alesia. Technikaffin und geschickt.
 
 ### Sigurson
 Bekannter Architekt und Weltverbesserer
 
 ### Cituan
+Söldnerkommandant der Storka
 
 ### General Samundra
+Oberster Flottenkommandant der Kartager
+
+### Lyndras
+
 
 ## Orte
 ### Gilgamesh
@@ -28,8 +33,19 @@ Ein dreifach-Sonnensystem
 U-Bahn Station
 
 ### Tarus im S-59-3a Sonnensystem
-Die Stadt
+Stadt und Planet Tarus
+
+## Schukdria
+Kolonie und Rubinenmiene, Heimat von Lyndras
+
+## Die Milchstrasse
+### Portale
+
+
+### Gebiete
+
 
 ## Ereignisse
 ### Kartoffelkriege
 Aufstand unzufriedener Bauern welche für bessere Löhne kämpften. 
+
