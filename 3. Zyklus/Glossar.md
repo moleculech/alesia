@@ -1,33 +1,42 @@
 # Glossar 3. Zyklus
 
 ## Personen
+
 ### Arush
 
-
 ### Alesia
-Sportliche Architekturpraktikantin vom Tarsiris-System
+Praktikantin von dem Architekten Sigurson
+Grobe Umgangsformen und neigt zu Zornausbrüchen
+Sportlich
+Vom Tarsiris-System
 
 ### Anguilla/Guillian
-Bruder von Alesia. Technikaffin und geschickt.
+Gewiefter Bruder von Alesia, Tecknikaffin und Taktiker
 
 ### Sigurson
 Bekannter Architekt und Weltverbesserer
 
-### Cituan
-Söldnerkommandant der Storka
+### Marschall Cituan/Chituan
+Söldnerkommandant der Storka, Kriegsveteran
+
+### Berenike
+Attache von Chituan, ehrfürchtig, schüchtern aber in machen Fällen unersetzlich
 
 ### General Samundra
 Oberster Flottenkommandant der Kartager
 
 ### Lyndras
+Arbeitsloser Mienenarbeiter, Spion
 
+### Disoys
+Kampfpilotin
 
 ## Orte
 ### Gilgamesh
 Eine Kolonie auf einem Asteroiden. Bewohnt von Minören welche nicht gerade für ihre geistigen Höhenflüge bekannt sind.
 
 ### Tarsiris-System
-Ein dreifach-Sonnensystem 
+Ein dreifach-Sonnensystem
 
 ### General Saratov Station
 U-Bahn Station
@@ -47,5 +56,4 @@ Kolonie und Rubinenmiene, Heimat von Lyndras
 
 ## Ereignisse
 ### Kartoffelkriege
-Aufstand unzufriedener Bauern welche für bessere Löhne kämpften. 
-
+Aufstand unzufriedener Bauern welche für bessere Löhne kämpften.
